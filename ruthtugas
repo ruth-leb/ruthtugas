@@ -1,0 +1,30 @@
+</head>
+<body>
+  <div class="container">
+    <h1>Ruth Lebang</h1>
+    <img src="ruth.jpg" alt="ruth.jpg" width="150">
+
+    <div class="contact">
+      📍 Indonesia | ✉️ ruthlebang20@gmail.com| ☎️ 081271446216| 
+    </div>
+    <h2>Summary</h2>
+    <p> Mahasiswi S1 program studi fisika Universitas Hasanuddin, laboratorium peminatan "Fisika Elektronika dan Instrumentasi"</p>
+
+    <h2>Biodata</h2>
+    <ul>
+        <li>Nama: RUTH LEBANG</li>
+        <li>Tempat,Tanggal Lahir: Tallunglipu, 20 Januari 2005</li>
+        <li>Jenis kelamin: Perempuan</li>
+        <li>Umur: 20 Tahun</li>
+        <li>Alamat: Perintis Kemerdekaan 7, Makassar</li>  
+    </ul>
+    <h2>Pendidikan</h2>
+        <li>SD Negeri 4 Tallunglipu, Toraja Utara</li>
+        <li>SMP Negeri 2 Rantepao, Toraja Utara</li>
+        <li>SMA Kristen Rantepao, Toraja Utara</li>
+        <li>Program studi Fisika, Universitas Hasanuddin</li>
+    
+    <h2>Organisasi</h2>
+    <p>HIMAFI FMIPA UNHAS</p>
+    <P>GMKI CABANG MAKASSAR KOMISARIAT FMIPA UNHAS</P>
+
